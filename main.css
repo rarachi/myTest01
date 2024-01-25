@@ -2,6 +2,8 @@ header{
     height: 250px;
     background-color: #f7ca04;
     border-radius: 10px;
+    background-image: url(https://files.cults3d.com/uploaders/17205315/illustration-file/735f43b0-c297-4acc-973d-5adf739de121/Bulbasaur-pixel-art-map.png);
+    background-size: cover;
 }
 main{
     min-height: 800px;
